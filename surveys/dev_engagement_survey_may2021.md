@@ -12,6 +12,8 @@ The [survey form](https://docs.google.com/forms/d/e/1FAIpQLSfh3x0aSKx-5siyC4yE_a
 
 ## Results
 
+Here are the survey results from 43 respondents (as at 20 July 2021):
+
 ![Question 1](./dev_engagement_survey_may2021/1.png)
 ![Question 2](./dev_engagement_survey_may2021/2.png)
 ![Question 3](./dev_engagement_survey_may2021/3.png)
