@@ -1,3 +1,3 @@
 # Retrospectives
 
-- [Tech Community Leaders Retrospective (19 July 20201)](./20210719.md)
+- [Tech Community Leaders Retrospective (19 July 2021)](./20210719.md)
