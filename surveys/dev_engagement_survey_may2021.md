@@ -97,6 +97,42 @@ The [survey form](https://docs.google.com/forms/d/e/1FAIpQLSfh3x0aSKx-5siyC4yE_a
 - perhaps be more targeted and short (within 1h).
 
 ![Question 8](./dev_engagement_survey_may2021/5.png)
-![Question 9](./dev_engagement_survey_may2021/6.png)
+
+### Question 9 (for Meetup Organiser): What format has been working for you?
+
+- Live streaming as part of a concerted effort works somewhat.
+- For example, the GDG regional event that we did with various other meetup groups saw more interest. The month of IWD events with Developer space also had - higher interest as well
+- Consistency, we had a lot of success during CB with workshops and meetups but numbers are quite Low again. Most of the engagement is related to non WP - stuff like SEO and marketing rather than dev topics
+- Online via Zoom
+- Talks and discussion
+- Online
+- Telegram chat, Zoom presentations.
+- Online. Preso or workshop followed by discussion
+- Ad-hoc spontaneous get togethers
+- Zoom
+- Short time based presentation
+- 🤷🏻‍♀️😔
+- Obs
+- Zoom, YouTube,
+- Social chit chat
+- To be honest I haven't been very active organizing meetups, but small group of less than 10 where everyone knows everyone else seems to be the most - comfortable.
+- 45 minutes
+- Collaborative facilitated
+- Covid times online, but in person was also great.
+
 ![Question 10](./dev_engagement_survey_may2021/7.png)
-![Question 11](./dev_engagement_survey_may2021/8.png)
+
+### Question 11: Any other comments about developer user groups in general?
+
+- Gather.town or virtual kopi.JS can or not?
+- What does this group do?
+- They are great for my mental health. ❤️
+- Id love to learn more from other groups
+- Better moderation pls
+- Appreciate the effort to organize meetups and keeping community alive
+- Out of many active groups I personally feel DSSG did strong in community management, organizer onboard, and maintained a high engagement level. Hope they - share their experience with local community leaders.
+- Go pre-recorded
+- Things are sliding off and people have zoom fatigue, the current format doesn’t work for us anymore
+- I'm a developer but I find developer events extremely boring.
+- Tougher to get more members to participate.
+- Thanks for doing this, Michael. Covid will be with us for some time, so we need to find a way forward.
